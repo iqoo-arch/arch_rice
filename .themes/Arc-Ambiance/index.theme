@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Arc-Ambiance
+Comment=Classic ubuntu theme based on Arc theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc-Ambiance
+MetacityTheme=Arc-Ambiance
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
